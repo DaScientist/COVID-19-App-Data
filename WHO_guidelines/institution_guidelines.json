@@ -1,0 +1,54 @@
+{
+  "guidelines": [
+    {
+      "title": "Operational considerations for COVID-19 management in the accommodation sector",
+      "content": "Hotels and tourism accommodation establishments are places where guests stay temporarily in close cohabitation and where there is a high degree of interaction among guests and workers, which requires specific attention in the context of COVID-19. The document offer guidance to collective tourism accommodation establishments such as hotels and similar establishments, holiday and other short-stay accommodation, and campsites.",
+      "links": [
+        {
+          "title": "Access the publication",
+          "link": "https://apps.who.int/iris/bitstream/handle/10665/331638/WHO-2019-nCoV-Hotels-2020.1-eng.pdf"
+        }
+      ]
+    },
+    {
+      "title": "Preparedness, prevention and control of COVID-19 in prisons and other places of detention",
+      "content": "Prisons and other places of detention are enclosed environments where people (including staff) live in close proximity. Every country has a responsibility to increase their level of preparedness, alert and response to identify, manage and care for new cases of COVID-19. Countries should prepare to respond to different public health scenarios, recognizing that there is no one-size-fits-all approach to managing cases and outbreaks of COVID-19. Four transmission scenarios that could be experienced by countries at the subnational level have been defined for COVID-19, and countries should therefore adjust and tailor their approach to the local context.",
+      "links": [
+        {
+          "title": "Access the guidance",
+          "link": "http://www.euro.who.int/en/health-topics/health-determinants/prisons-and-health/publications/2020/preparedness,-prevention-and-control-of-covid-19-in-prisons-and-other-places-of-detention-2020"
+        }
+      ]
+    },
+    {
+      "title": "Key Messages and Actions for COVID-19 Prevention and Control in Schools",
+      "content": "The purpose of this document is to provide clear and actionable guidance for safe operations through the prevention, early detection and control of COVID-19 in schools and other educational facilities. The guidance, while specific to countries that have already confirmed the transmission of COVID-19, is still relevant in all other contexts. Education can encourage students to become advocates for disease prevention and control at home, in school, and in their community by talking to others about how to prevent the spread of viruses. Maintaining safe school operations or reopening schools after a closure requires many considerations but, if done well, can promote public health.",
+      "links": [
+        {
+          "title": "Key Messages and Actions for COVID-19 Prevention and Control in Schools",
+          "link": "https://www.who.int/docs/default-source/coronaviruse/key-messages-and-actions-for-covid-19-prevention-and-control-in-schools-march-2020.pdf?sfvrsn=baf81d52_4"
+        }
+      ]
+    },
+    {
+      "title": "Getting your workplace ready for COVID-19",
+      "content": "WHO and public health authorities around the world are taking action to contain the COVID-19 outbreak. However, long term success cannot be taken for granted. All sections of our society – including businesses and employers – must play a role if we are to stop the spread of this disease.",
+      "links": [
+        {
+          "title": "Access the publication",
+          "link": "https://www.who.int/docs/default-source/coronaviruse/advice-for-workplace-clean-19-03-2020.pdf"
+        }
+      ]
+    },
+    {
+      "title": "IPC guidance for long-term care facilities in the context of COVID-19",
+      "content": "The objective of this interim guidance is to provide guidance on Infection Prevention and Control in Long-Term Care Facilities (LTCF) in the context of COVID-19 to prevent COVID-19-virus from entering the facility, spreading within the facility, and spreading to outside the facility. This guidance is for LTCF managers and corresponding IPC focal persons in LTCF.",
+      "links": [
+        {
+          "title": "Access the publication",
+          "link": "https://apps.who.int/iris/bitstream/handle/10665/331508/WHO-2019-nCoV-IPC_long_term_care-2020.1-eng.pdf"
+        }
+      ]
+    }
+  ]
+}
