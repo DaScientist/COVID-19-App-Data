@@ -1,122 +1,123 @@
 {
-    "guidelines":[
+  "title": "COVID-19 technical guidance: Infection prevention and control / WASH",
+  "guidelines": [
+    {
+      "title": "Infection prevention and control during health care when novel coronavirus (nCoV) infection is suspected",
+      "content": "This is the first edition of guidance on infection prevention and control (IPC) strategies for use when infection with a novel coronavirus (2019-nCoV) is suspected. It has been adapted from WHO’s Infection prevention and control during health care for probable or confirmed cases of Middle East respiratory syndrome coronavirus (MERS-CoV) infection, based on current knowledge of the situation in China and other countries where cases were identified and experiences with severe acute respiratory syndrome (SARS)-CoV and MERS-CoV.",
+      "links": [
         {
-            "title":"Infection prevention and control during health care when novel coronavirus (nCoV) infection is suspected",
-            "content":"This is the first edition of guidance on infection prevention and control (IPC) strategies for use when infection with a novel coronavirus (2019-nCoV) is suspected. It has been adapted from WHO’s Infection prevention and control during health care for probable or confirmed cases of Middle East respiratory syndrome coronavirus (MERS-CoV) infection, based on current knowledge of the situation in China and other countries where cases were identified and experiences with severe acute respiratory syndrome (SARS)-CoV and MERS-CoV.",
-            "links":[
-                {
-                    "title":"Access the publication",
-                    "link":"https://www.who.int/publications-detail/infection-prevention-and-control-during-health-care-when-novel-coronavirus-(ncov)-infection-is-suspected-20200125"
-                }
-            ]
-        },
-        {
-            "title":"Infection Prevention and Control for the safe management of a dead body in the context of COVID-19",
-            "content":"This interim guidance is for all those, including managers of health care facilities and mortuaries, religious and public health authorities, and families, who tend to the bodies of persons who have died of suspected or confirmed COVID-19.",
-            "links":[
-                {
-                    "title":"Access the publication",
-                    "link":"https://apps.who.int/iris/bitstream/handle/10665/331538/WHO-COVID-19-lPC_DBMgmt-2020.1-eng.pdf"
-                }
-            ]
-        },
-        {
-            "title":"IPC guidance for long-term care facilities in the context of COVID-19",
-            "content":"The objective of this interim guidance is to provide guidance on Infection Prevention and Control in Long-Term Care Facilities (LTCF) in the context of COVID-19 to prevent COVID-19-virus from entering the facility, spreading within the facility, and spreading to outside the facility. This guidance is for LTCF managers and corresponding IPC focal persons in LTCF.",
-            "links":[
-                {
-                    "title":"Access the publication",
-                    "link":"https://apps.who.int/iris/bitstream/handle/10665/331508/WHO-2019-nCoV-IPC_long_term_care-2020.1-eng.pdf"
-                }
-            ]
-        },
-        {
-            "title":"Consideration for quarantine of individuals in the context of containment for coronavirus disease (COVID-19)",
-            "content":"The purpose of this document is to offer guidance to Member States on quarantine measures for individuals in the context of COVID-19. It is intended for those responsible for establishing local or national policy for quarantine of individuals, and adherence to infection prevention and control measures.",
-            "links":[
-                {
-                    "title":"Access the publication",
-                    "link":"https://www.who.int/publications-detail/considerations-for-quarantine-of-individuals-in-the-context-of-containment-for-coronavirus-disease-(covid-19)"
-                }
-            ]
-        },
-        {
-            "title":"Health workers exposure risk assessment and management in the context of COVID-19 virus",
-            "content":"This tool is to be used by health care facilities that have either cared for or admitted COVID-19 patients; it is to be completed for all health workers who have been exposed to a confirmed COVID-19 patient in a health care facility. It will help determine the risk of COVID-19 virus infection of all HCWs who have been exposed to a COVID-19 patient and then provides recommendations for appropriate management of these HCWs, according to their infection risk.\n\nFind below the links to the template for collecting the data contained within the tool and a corresponding data dictionary to facilitate the collection of this data.",
-            "links":[
-                {
-                    "title":"Access the tool",
-                    "link":"https://apps.who.int/iris/bitstream/handle/10665/331496/WHO-2019-nCov-HCW_risk_assessment-2020.2-eng.pdf"
-                },
-                {
-                    "title":"Access to the data template",
-                    "link":"https://www.who.int/docs/default-source/coronaviruse/20200304-covid19-hcw-data-collection-form-final.xlsx?sfvrsn=ee0a7cff_2"
-                },
-                {
-                    "title":"Access to the data dictionary",
-                    "link":"https://www.who.int/docs/default-source/coronaviruse/20200304-covid19-health-worker-data-dictionary-final.xlsx?sfvrsn=7484b927_2"
-                }
-            ]
-        },
-        {
-            "title":"Rational use of personal protective equipment for coronavirus disease (COVID-19)",
-            "content":"This document summarizes WHO recommendations for the rational use of personal protective equipment (PPE), in health care and community settings, including the handling of cargo. This document is intended for those involved in the distribution and management of PPE, as well as public health authorities and individuals in health care and community settings to understand when PPE use is most appropriate.",
-            "links":[
-                {
-                    "title":"Access the publication",
-                    "link":"https://apps.who.int/iris/bitstream/handle/10665/331498/WHO-2019-nCoV-IPCPPE_use-2020.2-eng.pdf"
-                }
-            ]
-        },
-        {
-            "title":"Advice on the Use of Masks",
-            "content":"This document provides rapid advice on the use of medical masks in communities, at home and at health care facilities in areas that have reported outbreaks caused by the 2019 novel coronavirus (nCoV). It is intended for public health and infection prevention and control (IPC) professionals, health care managers, health care workers and community health workers.",
-            "links":[
-                {
-                    "title":"Access the publication",
-                    "link":"https://www.who.int/publications-detail/advice-on-the-use-of-masks-in-the-community-during-home-care-and-in-healthcare-settings-in-the-context-of-the-novel-coronavirus-(2019-ncov)-outbreak"
-                }
-            ]
-        },
-        {
-            "title":"Home care for patients with suspected novel coronavirus (nCoV) infection presenting with mild symptoms and management of contacts",
-            "content":"WHO has developed this rapid advice note to meet the need for recommendations on the safe home care for patients with suspected novel coronavirus (2019-nCoV) infection presenting with mild symptoms and public health measures related to management of asymptomatic contacts.",
-            "links":[
-                {
-                    "title":"Access the publication",
-                    "link":"https://www.who.int/publications-detail/home-care-for-patients-with-suspected-novel-coronavirus-(ncov)-infection-presenting-with-mild-symptoms-and-management-of-contacts"
-                }
-            ]
-        },
-        {
-            "title":"Q&A on infection prevention and control for health care workers caring for patients with suspected or confirmed 2019-nCoV",
-            "content":"Are boots, impermeable aprons, or coverall suits required as routine person protective equipment (PPE) for healthcare workers (HCW) caring for patients with suspected or confirmed 2019-nCoV infection? Can disposable medical face masks be sterilized and reused? Do patients with suspected or confirmed 2019-nCoV need to be hospitalized if they have mild illness? Here you will find answers to these and other questions related to infection prevention and control for health care workers caring for patients with suspected or confirmed 2019-nCoV.",
-            "links":[
-                {
-                    "title":"Read the Q&A",
-                    "link":"https://www.who.int/news-room/q-a-detail/q-a-on-infection-prevention-and-control-for-health-care-workers-caring-for-patients-with-suspected-or-confirmed-2019-ncov"
-                }
-            ]
-        },
-        {
-            "title":"Water, sanitation, hygiene and waste management for COVID-19",
-            "content":"This Technical Brief supplements existing IPC documents by referring to and summarizing WHO guidance on water, sanitation and health care waste which is relevant for viruses (including coronaviruses). This Technical Brief is written in particular for water and sanitation practitioners and providers.",
-            "links":[
-                {
-                    "title":"Access the publication",
-                    "link":"https://www.who.int/publications-detail/water-sanitation-hygiene-and-waste-management-for-covid-19"
-                }
-            ]
-        },
-        {
-            "title":"Guide to local production of WHO-recommended Handrub Formulations",
-            "content":"Part A is intended to guide a local producer in the actual preparation of the formulation.\n\nPart B contains important safety and cost information and incorporates information from the WHO Guidelines on Hand Hygiene in Health Care (2009).",
-            "links":[
-                {
-                    "title":"Access the publication",
-                    "link":"https://www.who.int/gpsc/5may/Guide_to_Local_Production.pdf"
-                }
-            ]
+          "title": "Access the publication",
+          "link": "https://www.who.int/publications-detail/infection-prevention-and-control-during-health-care-when-novel-coronavirus-(ncov)-infection-is-suspected-20200125"
         }
-    ]
+      ]
+    },
+    {
+      "title": "Infection Prevention and Control for the safe management of a dead body in the context of COVID-19",
+      "content": "This interim guidance is for all those, including managers of health care facilities and mortuaries, religious and public health authorities, and families, who tend to the bodies of persons who have died of suspected or confirmed COVID-19.",
+      "links": [
+        {
+          "title": "Access the publication",
+          "link": "https://apps.who.int/iris/bitstream/handle/10665/331538/WHO-COVID-19-lPC_DBMgmt-2020.1-eng.pdf"
+        }
+      ]
+    },
+    {
+      "title": "IPC guidance for long-term care facilities in the context of COVID-19",
+      "content": "The objective of this interim guidance is to provide guidance on Infection Prevention and Control in Long-Term Care Facilities (LTCF) in the context of COVID-19 to prevent COVID-19-virus from entering the facility, spreading within the facility, and spreading to outside the facility. This guidance is for LTCF managers and corresponding IPC focal persons in LTCF.",
+      "links": [
+        {
+          "title": "Access the publication",
+          "link": "https://apps.who.int/iris/bitstream/handle/10665/331508/WHO-2019-nCoV-IPC_long_term_care-2020.1-eng.pdf"
+        }
+      ]
+    },
+    {
+      "title": "Consideration for quarantine of individuals in the context of containment for coronavirus disease (COVID-19)",
+      "content": "The purpose of this document is to offer guidance to Member States on quarantine measures for individuals in the context of COVID-19. It is intended for those responsible for establishing local or national policy for quarantine of individuals, and adherence to infection prevention and control measures.",
+      "links": [
+        {
+          "title": "Access the publication",
+          "link": "https://www.who.int/publications-detail/considerations-for-quarantine-of-individuals-in-the-context-of-containment-for-coronavirus-disease-(covid-19)"
+        }
+      ]
+    },
+    {
+      "title": "Health workers exposure risk assessment and management in the context of COVID-19 virus",
+      "content": "This tool is to be used by health care facilities that have either cared for or admitted COVID-19 patients; it is to be completed for all health workers who have been exposed to a confirmed COVID-19 patient in a health care facility. It will help determine the risk of COVID-19 virus infection of all HCWs who have been exposed to a COVID-19 patient and then provides recommendations for appropriate management of these HCWs, according to their infection risk.\n\nFind below the links to the template for collecting the data contained within the tool and a corresponding data dictionary to facilitate the collection of this data.",
+      "links": [
+        {
+          "title": "Access the tool",
+          "link": "https://apps.who.int/iris/bitstream/handle/10665/331496/WHO-2019-nCov-HCW_risk_assessment-2020.2-eng.pdf"
+        },
+        {
+          "title": "Access to the data template",
+          "link": "https://www.who.int/docs/default-source/coronaviruse/20200304-covid19-hcw-data-collection-form-final.xlsx?sfvrsn=ee0a7cff_2"
+        },
+        {
+          "title": "Access to the data dictionary",
+          "link": "https://www.who.int/docs/default-source/coronaviruse/20200304-covid19-health-worker-data-dictionary-final.xlsx?sfvrsn=7484b927_2"
+        }
+      ]
+    },
+    {
+      "title": "Rational use of personal protective equipment for coronavirus disease (COVID-19)",
+      "content": "This document summarizes WHO recommendations for the rational use of personal protective equipment (PPE), in health care and community settings, including the handling of cargo. This document is intended for those involved in the distribution and management of PPE, as well as public health authorities and individuals in health care and community settings to understand when PPE use is most appropriate.",
+      "links": [
+        {
+          "title": "Access the publication",
+          "link": "https://apps.who.int/iris/bitstream/handle/10665/331498/WHO-2019-nCoV-IPCPPE_use-2020.2-eng.pdf"
+        }
+      ]
+    },
+    {
+      "title": "Advice on the Use of Masks",
+      "content": "This document provides rapid advice on the use of medical masks in communities, at home and at health care facilities in areas that have reported outbreaks caused by the 2019 novel coronavirus (nCoV). It is intended for public health and infection prevention and control (IPC) professionals, health care managers, health care workers and community health workers.",
+      "links": [
+        {
+          "title": "Access the publication",
+          "link": "https://www.who.int/publications-detail/advice-on-the-use-of-masks-in-the-community-during-home-care-and-in-healthcare-settings-in-the-context-of-the-novel-coronavirus-(2019-ncov)-outbreak"
+        }
+      ]
+    },
+    {
+      "title": "Home care for patients with suspected novel coronavirus (nCoV) infection presenting with mild symptoms and management of contacts",
+      "content": "WHO has developed this rapid advice note to meet the need for recommendations on the safe home care for patients with suspected novel coronavirus (2019-nCoV) infection presenting with mild symptoms and public health measures related to management of asymptomatic contacts.",
+      "links": [
+        {
+          "title": "Access the publication",
+          "link": "https://www.who.int/publications-detail/home-care-for-patients-with-suspected-novel-coronavirus-(ncov)-infection-presenting-with-mild-symptoms-and-management-of-contacts"
+        }
+      ]
+    },
+    {
+      "title": "Q&A on infection prevention and control for health care workers caring for patients with suspected or confirmed 2019-nCoV",
+      "content": "Are boots, impermeable aprons, or coverall suits required as routine person protective equipment (PPE) for healthcare workers (HCW) caring for patients with suspected or confirmed 2019-nCoV infection? Can disposable medical face masks be sterilized and reused? Do patients with suspected or confirmed 2019-nCoV need to be hospitalized if they have mild illness? Here you will find answers to these and other questions related to infection prevention and control for health care workers caring for patients with suspected or confirmed 2019-nCoV.",
+      "links": [
+        {
+          "title": "Read the Q&A",
+          "link": "https://www.who.int/news-room/q-a-detail/q-a-on-infection-prevention-and-control-for-health-care-workers-caring-for-patients-with-suspected-or-confirmed-2019-ncov"
+        }
+      ]
+    },
+    {
+      "title": "Water, sanitation, hygiene and waste management for COVID-19",
+      "content": "This Technical Brief supplements existing IPC documents by referring to and summarizing WHO guidance on water, sanitation and health care waste which is relevant for viruses (including coronaviruses). This Technical Brief is written in particular for water and sanitation practitioners and providers.",
+      "links": [
+        {
+          "title": "Access the publication",
+          "link": "https://www.who.int/publications-detail/water-sanitation-hygiene-and-waste-management-for-covid-19"
+        }
+      ]
+    },
+    {
+      "title": "Guide to local production of WHO-recommended Handrub Formulations",
+      "content": "Part A is intended to guide a local producer in the actual preparation of the formulation.\n\nPart B contains important safety and cost information and incorporates information from the WHO Guidelines on Hand Hygiene in Health Care (2009).",
+      "links": [
+        {
+          "title": "Access the publication",
+          "link": "https://www.who.int/gpsc/5may/Guide_to_Local_Production.pdf"
+        }
+      ]
+    }
+  ]
 }
